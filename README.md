@@ -14,20 +14,18 @@ ___
 
 This is my assignment project to Programming for Data Analysis module, Galway-Mayo Institute of Technology, 2019.
 
-This GitHub repository documents my research, project progress (git version control) and findings of the _meteorites_ data synthesis. 
+This GitHub repository documents my research, project progress (git version control) and findings of the _meteorites_ data synthesis.
 
 ## Assignment objectives
 
-The project concerns a creation of a model of a real-world phenomenon. It involves subject research, identification of key parameters and variables affecting the phenomenon, as well as relationship between them. The projects involves also running a simulation of the model and synthesising the the variables in a dataset. 
-
-I have chosen to research and analyse the __**falling meteorites**__ phenomenon. Because of the complexity, a number of simplifiaction has been applied for this project. More details can be found in the Notebook.
+The project concerns a creation of a model of a real-world phenomenon. It involves subject research, identification of key parameters and variables affecting the phenomenon, as well as relationship between them. The projects involves also running a simulation of the model and synthesising the the variables in a dataset.
 
 The high level objectives of the project are as follows.
+
 - To choose a real-world phenomenon that can be measured,
 - Investigate variables - distributions and relationship with each other,
 - Simulate / synthesise a dataset describing the phenomenon - Jupyter Notebook,
 - Document the research and the data synthesis.
-
 
 The detailed project instructions: <https://github.com/brianmcgmit/ProgDA/raw/master/ProgDA_Project.pdf>.
 
@@ -37,17 +35,28 @@ It is also intended to gain knowledge and understanding through practical exerci
 
 As an outcome of the project, it is hoped to become more proficient in data analytics concepts and methods, including data types and structures handling, data splicing, plots generation and interpretation.
 
-As it is a learning exercise for me, I have made attempt to comment various functionalities not only for readability but also for my future reference.
+## The phenomenon
 
-___
+![Craters field; source: NASA](https://www.sciencenews.org/wp-content/uploads/2018/03/031418_MT_crater-hunting_main.jpg) source: NASA
+
+I have chosen to research and analyse the __**meteorites fall**__ phenomenon. It occurs when an astronomical solid objects hits a planet (or moon, etc). Variables taken into account are:
+
+- atmospheric entry,
+- surface impact,
+- mass,
+- velocity,
+- crater
+- class.
+
+More details can be found in the Notebook.
+
 ## Project delivery
 
 The project is delivered via this GitHub [repository](https://github.com/andkoc001/data_synthesis.git).
 
-This README.md file contains background information and introduction to the project. It should be read in conjunction with the Jupyter Notebook [data_synth_1.ipynb](https://github.com/andkoc001/data_synthesis/blob/master/data_synth_1.ipynb), where the data synthesis is conducted. 
+This README.md file contains background information and introduction to the project. It should be read in conjunction with the Jupyter Notebook [data_synth_1.ipynb](https://github.com/andkoc001/data_synthesis/blob/master/data_synth_1.ipynb), where the data synthesis is conducted.
 
 In the notebook I have incorporated the research and described the project progress. It is illustrated the applied concepts and methods together with relevant code snippets. The notebook includes also the calculated outputs and plots with accompanied description. Finally, inside the notebook I have included also references to sources being consulted for this assignment.
-
 
 ### Viewing the Notebook
 
@@ -56,13 +65,14 @@ For viewing the notebook online, it is recommended to use Jupyter Notebooks view
 ___
 ## Tools used
 
-_Python_ programming language is acclaimed for its capacity of handling large amount of data in scientific community of different specialisation. Its natural functionality has been extended by development of external libraries dedicated for specific purposes. Throught the project I used the following libraries: 
+Specific tools that aided the delivery of the project were:
+
+- _Python_ programming language, which is acclaimed for its capacity of handling large amount of data in scientific community of different specialisation. Its natural functionality has been extended by development of external libraries dedicated for specific purposes. Throught the project I used the following libraries:
 - _NumPy_ - used for scientific calculations in Python; it allows, among others, to perform numerical calculations or random numbers generation.
 - _Pandas_ - used for data analysis and provides functionalities and data structures needed to work with structured datasets.
 - _Matplotlib_ - for producing plotting.
 - _Seaborn_ - used for data visualization based on matplotlib.
-
-The project was conducted in _Jupyter Notebook_ (_Jupyter Lab_) environment, that provides interactive, web-based environment for data science and scientific computing.
+- The project was conducted in _Jupyter Notebook_ environment, that provides interactive, web-based environment for data science and scientific computing.
 
 ___
 ## References
@@ -82,6 +92,8 @@ General, high-level, reference sources are listed below. References to specific 
 - [Seaborn documentation](https://seaborn.pydata.org/)
 - [Jupyter documentation](https://jupyter.org/documentation)
 
+### The phenomenon
+
+- [Meteorite, Wikipedia](https://en.wikipedia.org/wiki/Meteorite)
 ___
 Andrzej Kocielski
-
