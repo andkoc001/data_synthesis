@@ -37,15 +37,15 @@ As an outcome of the project, it is hoped to become more proficient in data anal
 
 ## The phenomenon
 
-![Craters field; source: NASA](https://www.sciencenews.org/wp-content/uploads/2018/03/031418_MT_crater-hunting_main.jpg) source: NASA
+![Impact craters on Mimas' surface (Saturn’s moon)](https://upload.wikimedia.org/wikipedia/commons/d/da/Mimas_moon.jpg) Image source: [Wikipedia](https://en.wikipedia.org/wiki/File:Mimas_moon.jpg)
 
 I have chosen to research and analyse the __**meteorites fall**__ phenomenon. It occurs when an astronomical solid objects hits a planet (or moon, etc). Variables taken into account are:
 
 - atmospheric entry,
 - surface impact,
-- mass,
-- velocity,
-- crater
+- meteorite mass,
+- meteorite velocity,
+- crater size,
 - class.
 
 More details can be found in the Notebook.
