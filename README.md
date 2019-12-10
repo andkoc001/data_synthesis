@@ -31,15 +31,11 @@ The detailed project instructions: <https://github.com/brianmcgmit/ProgDA/raw/ma
 
 This project is intended to further familiarisation with data analytics. The project will allow to get practical understanding of handling data in Python environment. It is also intended to get familiar with the analytical tools. The tools used in the project include Python language with additional libraries like Pandas, Numpy, Seaborn, etc. as well as Jupyter Notbook.
 
-It is also intended to gain knowledge and understanding through practical exercises about data analysis algorithms and methods. These in particular, would include linear regression, grouping, correlations, classification and pattern recognition.
-
-As an outcome of the project, it is hoped to become more proficient in data analytics concepts and methods, including data types and structures handling, data splicing, plots generation and interpretation.
-
 ## The phenomenon
 
 ![Impact craters on Mimas' surface (Saturn’s moon)](https://upload.wikimedia.org/wikipedia/commons/d/da/Mimas_moon.jpg) Image source: [Wikipedia](https://en.wikipedia.org/wiki/File:Mimas_moon.jpg)
 
-I have chosen to research and analyse the __**meteorites fall**__ phenomenon. It occurs when an astronomical solid objects hits a planet (or moon, etc). Variables taken into account are:
+I have chosen to research and analyse the __**meteorites fall**__ phenomenon. It occurs when meteoroids hit another celecstial objects (e.g. planet). The variables taken into account are:
 
 - atmospheric entry,
 - surface impact,
@@ -70,30 +66,30 @@ Specific tools that aided the delivery of the project were:
 - _Python_ programming language, which is acclaimed for its capacity of handling large amount of data in scientific community of different specialisation. Its natural functionality has been extended by development of external libraries dedicated for specific purposes. Throught the project I used the following libraries:
 - _NumPy_ - used for scientific calculations in Python; it allows, among others, to perform numerical calculations or random numbers generation.
 - _Pandas_ - used for data analysis and provides functionalities and data structures needed to work with structured datasets.
+- _SciPy_ - a collection of routines for linear algebra, statistics and other numerical applclications.
 - _Matplotlib_ - for producing plotting.
-- _Seaborn_ - used for data visualization based on matplotlib.
-- The project was conducted in _Jupyter Notebook_ environment, that provides interactive, web-based environment for data science and scientific computing.
+- _Seaborn_ - used for data visualization based on matplotlib.- The project was conducted in _Jupyter Notebook_ environment, that provides interactive, web-based environment for data science and scientific computing.
 
 ___
 ## References
 
 General, high-level, reference sources are listed below. References to specific problems are included in the Notebook.
 
-### Project and the data set related
+### Project related
 
-- GMIT Programing for Data Analysis module materials on Moodle platform (access may be restricted for staff and students): <https://learnonline.gmit.ie/course/view.php?id=1127>
+- McGinley, B. (2019). Programming for Data Analysis - Project Brief 2019. [pdf] GMIT. Available at: https://github.com/brianmcgmit/ProgDA/raw/master/ProgDA_Project.pdf [Accessed 10 Dec. 2019].
+- Programming for Data Analysis - module webpage. [online] Learnonline.gmit.ie. Available at: https://learnonline.gmit.ie/course/view.php?id=1127 [Accessed 10 Dec. 2019].
 
 ### Python environment
 
-- [Python 3 documentation](https://docs.python.org/3/)
-- [NumPy documentation](https://numpy.org/doc/)
-- [Pandas documentation](https://pandas.pydata.org/pandas-docs/stable/)
-- [Matplotlib documentation](https://matplotlib.org/contents.html)
-- [Seaborn documentation](https://seaborn.pydata.org/)
-- [Jupyter documentation](https://jupyter.org/documentation)
+- Python 3 Documentation. (2019). [online] Available at: https://docs.python.org/3/ [Accessed 10 Dec. 2019].
+- Scipy - Scientific computing tools for Python. (2019). [online] Available at: https://www.scipy.org/about.html [Accessed 10 Dec. 2019].
+- Project Jupyter Documentation. (2019). [online] Available at: https://jupyter.org/documentation [Accessed 10 Dec. 2019].
+
 
 ### The phenomenon
 
-- [Meteorite, Wikipedia](https://en.wikipedia.org/wiki/Meteorite)
+- Center for Near Earth Objects Studies, NASA. (2019). [online] Available at: https://cneos.jpl.nasa.gov/ [Accessed 10 Dec. 2019].
+- Meteorite - Wikipedia. (2019).[online] Available at: https://en.wikipedia.org/wiki/Meteorite [Accessed 10 Dec. 2019].
 ___
 Andrzej Kocielski
