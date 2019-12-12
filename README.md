@@ -1,4 +1,5 @@
 # Data synthesis - meteorites 
+
 Assignment project for Programming for Data Analysis module at GMIT, 2019.
 
 Lecturer: dr Brian McGinley
@@ -27,7 +28,7 @@ The high level objectives of the project are as follows.
 - Simulate / synthesise a dataset describing the phenomenon - Jupyter Notebook,
 - Document the research and the data synthesis.
 
-The detailed project instructions: <https://github.com/brianmcgmit/ProgDA/raw/master/ProgDA_Project.pdf>.
+The detailed project brief, see references section below.
 
 This project is intended to further familiarisation with data analytics. The project will allow to get practical understanding of handling data in Python environment. It is also intended to get familiar with the analytical tools. The tools used in the project include Python language with additional libraries like Pandas, Numpy, Seaborn, etc. as well as Jupyter Notbook.
 
@@ -35,7 +36,7 @@ This project is intended to further familiarisation with data analytics. The pro
 
 ![Impact craters on Mimas' surface (Saturn’s moon)](https://upload.wikimedia.org/wikipedia/commons/d/da/Mimas_moon.jpg) Image source: [Wikipedia](https://en.wikipedia.org/wiki/File:Mimas_moon.jpg)
 
-I have chosen to research and analyse the __**meteorites fall**__ phenomenon. It occurs when meteoroids hit another celecstial objects (e.g. planet). The variables taken into account are:
+I have chosen to research and analyse the __**meteorites fall**__ phenomenon. It occurs when meteoroid hit another celecstial objects (e.g. planet). The variables taken into account in the simulation are:
 
 - atmospheric entry,
 - surface impact,
@@ -75,21 +76,22 @@ ___
 
 General, high-level, reference sources are listed below. References to specific problems are included in the Notebook.
 
-### Project related
+### Regarding the project
 
-- McGinley, B. (2019). Programming for Data Analysis - Project Brief 2019. [pdf] GMIT. Available at: https://github.com/brianmcgmit/ProgDA/raw/master/ProgDA_Project.pdf [Accessed 10 Dec. 2019].
-- Programming for Data Analysis - module webpage. [online] Learnonline.gmit.ie. Available at: https://learnonline.gmit.ie/course/view.php?id=1127 [Accessed 10 Dec. 2019].
+- McGinley, B., Programming for Data Analysis - Project Brief 2019. [pdf] GMIT. Available at: <https://github.com/brianmcgmit/ProgDA/raw/master/ProgDA_Project.pdf> [Accessed November 2019].
+- Programming for Data Analysis - module webpage. [online] Learnonline.gmit.ie. Available at: <https://learnonline.gmit.ie/course/view.php?id=1127> [Accessed December 2019].
 
-### Python environment
+### Regarding Python environment
 
-- Python 3 Documentation. (2019). [online] Available at: https://docs.python.org/3/ [Accessed 10 Dec. 2019].
-- Scipy - Scientific computing tools for Python. (2019). [online] Available at: https://www.scipy.org/about.html [Accessed 10 Dec. 2019].
-- Project Jupyter Documentation. (2019). [online] Available at: https://jupyter.org/documentation [Accessed 10 Dec. 2019].
+- Python 3 Documentation. [online] Available at: <https://docs.python.org/3/> [Accessed November 2019].
+- Scipy - Scientific computing tools for Python.  [online] Available at:<https://www.scipy.org/about.html> [Accessed December 2019].
+- Project Jupyter Documentation. [online] Available at: <https://jupyter.org/documentation> [Accessed November 2019].
 
+### Regarding the phenomenon
 
-### The phenomenon
+- Center for Near Earth Objects Studies, NASA. [online] Available at: <https://cneos.jpl.nasa.gov/> [Accessed November 2019].
+- Meteorite - Wikipedia. [online] Available at: <https://en.wikipedia.org/wiki/Meteorite> [Accessed November 2019].
+- Impact event - Wikipedia. [online] Available at: <https://en.wikipedia.org/wiki/Impact_event> [Accessed November 2019].
 
-- Center for Near Earth Objects Studies, NASA. (2019). [online] Available at: https://cneos.jpl.nasa.gov/ [Accessed 10 Dec. 2019].
-- Meteorite - Wikipedia. (2019).[online] Available at: https://en.wikipedia.org/wiki/Meteorite [Accessed 10 Dec. 2019].
 ___
 Andrzej Kocielski
