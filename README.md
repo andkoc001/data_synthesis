@@ -59,7 +59,6 @@ In the notebook I have incorporated the research and described the project progr
 
 For viewing the notebook online, it is recommended to use Jupyter Notebooks viewer, [nbviewer](https://nbviewer.jupyter.org/). Paste the link to the notebook to be inspected into provided field.
 
-___
 ## Tools used
 
 Specific tools that aided the delivery of the project were:
